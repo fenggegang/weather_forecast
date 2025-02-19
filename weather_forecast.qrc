@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/weather_forecast">
+        <file>img/多云.png</file>
+        <file>img/霾.png</file>
+        <file>img/晴.png</file>
+        <file>img/阴.png</file>
+        <file>img/background.jpg</file>
+        <file>img/雨.png</file>
+        <file>img/左滑.png</file>
+        <file>img/右滑.png</file>
+        <file>img/冰雹.png</file>
+        <file>img/潮湿.png</file>
+        <file>img/冻雨.png</file>
+        <file>img/多云转晴.png</file>
+        <file>img/风.png</file>
+        <file>img/风雪.png</file>
+        <file>img/干燥.png</file>
+        <file>img/局地阵雨.png</file>
+        <file>img/雷阵雨.png</file>
+        <file>img/零星阵雨.png</file>
+        <file>img/轻雾.png</file>
+        <file>img/晴间多云.png</file>
+        <file>img/沙尘暴.png</file>
+        <file>img/雾.png</file>
+        <file>img/小雪.png</file>
+        <file>img/小雨.png</file>
+        <file>img/雪.png</file>
+        <file>img/烟雾.png</file>
+        <file>img/雨夹雪.png</file>
+        <file>img/阵雪.png</file>
+        <file>img/阵雨.png</file>
+        <file>img/大雨.png</file>
+        <file>img/中雨.png</file>
+    </qresource>
+</RCC>
