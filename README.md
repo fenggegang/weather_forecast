@@ -1,5 +1,5 @@
 # weather_forecast
-## 这是一个QT界面练手项目 - 天气预报
+## 这是一个QT界面练手项目 - 天气预报(weatherForecast)
 
 ![alt text](image.png)
 
